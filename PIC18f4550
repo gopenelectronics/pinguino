@@ -1,0 +1,13 @@
+Pinguino is an Arduino-like electronics prototyping platform. It supports different 8- and 32-bit microcontrollers, all with built-in USB module (no FTDI chip !).
+
+Pinguino comes with a USB Bootloader. This small program running inside the microcontroller is responsible for transferring your application from your PC to the microcontroller memory and handing over the control to this program afterwards.
+
+No programmer is needed(*), the microcontroller can be reprogrammed over USB with a PC.
+
+8-bit : PIC18F2550, PIC18F4550 and PIC18F26J50 from ©Microchip.
+
+
+in This Hardware we are using PIC 18f4550
+
+
+For More details visit at http://www.pinguino.cc/
